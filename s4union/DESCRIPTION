@@ -1,0 +1,11 @@
+Package: s4union
+Title: Test package for S4 class unions
+License: GPL-2
+Description: 
+Author: Winston Chang <winston@stdout.org>
+Maintainer: Winston Chang <winston@stdout.org>
+Version: 0.1
+Collate:
+    'uclass.r'
+Imports:
+    methods

@@ -1,0 +1,11 @@
+Package: s4subclass
+Title: Test package for S4 subclass
+License: GPL-2
+Description: 
+Author: Winston Chang <winston@stdout.org>
+Maintainer: Winston Chang <winston@stdout.org>
+Version: 0.1
+Collate:
+    'subclass.r'
+Imports:
+    methods
